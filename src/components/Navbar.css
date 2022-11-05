@@ -4,6 +4,7 @@
     height:  90px;
     left: 0px;
     top: 0px;
+    min-height: 0px;
 }
   .navbar .container {
     height: 20px;
