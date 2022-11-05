@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Shipra-JTGreat/static/css/main.da275819.css",
+    "main.js": "/Shipra-JTGreat/static/js/main.91f39fa9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Shipra-JTGreat/static/js/787.28cb0dcd.chunk.js",
+    "static/media/fooditem10.png": "/Shipra-JTGreat/static/media/fooditem10.9ddde83c5d5baf3f0d79.png",
+    "static/media/fooditem9.png": "/Shipra-JTGreat/static/media/fooditem9.9457da80a25bab277f0a.png",
+    "static/media/fooditem1.png": "/Shipra-JTGreat/static/media/fooditem1.b492d9c062f6394a323e.png",
+    "static/media/fooditem4.png": "/Shipra-JTGreat/static/media/fooditem4.78cbabb1a84d443942f9.png",
+    "static/media/fooditem6.png": "/Shipra-JTGreat/static/media/fooditem6.6d5258dc1b7121697bfe.png",
+    "static/media/fooditem5.png": "/Shipra-JTGreat/static/media/fooditem5.e58a01d039c685eb3c71.png",
+    "static/media/fooditem7.png": "/Shipra-JTGreat/static/media/fooditem7.a421a1033d4d26b49298.png",
+    "static/media/fooditem8.png": "/Shipra-JTGreat/static/media/fooditem8.d9969eff61d90aa1ba8a.png",
+    "static/media/fooditem3.png": "/Shipra-JTGreat/static/media/fooditem3.f617c16afdbbe12e5c3f.png",
+    "static/media/fooditem2.png": "/Shipra-JTGreat/static/media/fooditem2.bca84d2c537f96eeb096.png",
+    "static/media/Vimage.jpg": "/Shipra-JTGreat/static/media/Vimage.fddff43b48fcdb442bd7.jpg",
+    "static/media/foodboy.png": "/Shipra-JTGreat/static/media/foodboy.81349da040cf4beff45a.png",
+    "static/media/cooking.png": "/Shipra-JTGreat/static/media/cooking.1adcab1242b097050232.png",
+    "index.html": "/Shipra-JTGreat/index.html",
+    "main.da275819.css.map": "/Shipra-JTGreat/static/css/main.da275819.css.map",
+    "main.91f39fa9.js.map": "/Shipra-JTGreat/static/js/main.91f39fa9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Shipra-JTGreat/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da275819.css",
+    "static/js/main.91f39fa9.js"
+  ]
+}
