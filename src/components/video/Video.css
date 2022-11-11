@@ -61,7 +61,7 @@ margin-block-start: 200px;
     height:420px;
 }
 .background{
-    min-width:1540px;
+    min-width:100%;
     min-height: 350px;
     background: #C7EACC;
     position: relative;
